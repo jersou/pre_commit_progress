@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Deno: run" type="DenoConfigurationType" inputPath="$PROJECT_DIR$/mod.ts" programParameters="run -A">
+    <method v="2" />
+  </configuration>
+</component>
