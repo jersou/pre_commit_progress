@@ -202,6 +202,7 @@ export async function runPreCommit(
     console.error();
     console.log(statusStr);
     printError();
+    Deno.exit(1);
   }
   sanitize();
 }
